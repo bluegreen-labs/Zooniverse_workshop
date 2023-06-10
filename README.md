@@ -1,2 +1,3 @@
-# Zooniverse_workshop
+# Zooniverse workshop
+
 Zooniverse workshop materials
